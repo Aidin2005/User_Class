@@ -7,7 +7,7 @@ Instructions:
 
 1. User Class (Instance Variables & Methods)
 
-Create a class User that represents a user with the following attributes and methods:
+### Create a class User that represents a user with the following attributes and methods:
 Instance Variables:
 user_id (integer) – Unique identifier for the user.
 name (string) – First name of the user.
@@ -21,7 +21,7 @@ get_details(self): Returns a formatted string containing user details.
 get_age(self): Computes and returns the user’s age.
 2. UserService Class (Class Methods & Class Attribute)
 
-Create a UserService class that manages users.
+### Create a UserService class that manages users.
 Class Attribute:
 users – A dictionary to store all User objects. key is the user_id, value is an User object.
 Class Methods:
@@ -32,7 +32,7 @@ update_user(cls, user_id, user_update): Updates student attributes using user_up
 get_number(cls): Returns number of students in a users
 3. UserUtil Class (Static Methods)
 
-Create a UserUtil class that provides utility functions.
+### Create a UserUtil class that provides utility functions.
 Static Methods:
 generate_user_id(): Generates unique new user_id with 9 digits. The first two digits are taken from the current year (e.g., "24" for 2024). The remaining digits are randomly generated.
 generate_password(): Generates new password. Minimum 8 characters long. At least 1 uppercase, 1 lowercase, 1 digit, and 1 special character.
@@ -47,4 +47,4 @@ Verify that Python is installed on your computer.
 Make a local copy of the repository.
 Go to the directory for the project.
 To communicate with the user management system, execute the main.py file:
-python Main.py
+#### python Main.py
