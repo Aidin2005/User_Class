@@ -65,6 +65,7 @@ Password strength: &*#$%^& is strong.
 ```
 
 # UML
+![Image](https://github.com/user-attachments/assets/5da74d27-721b-459d-9c05-d82446666901)
 
 
 
