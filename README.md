@@ -50,18 +50,18 @@ Enter your birthday (YYYY-MM-DD): 2005-12-23
 
 **Output:**
 ```bash
-User added successfully!
+User added successfully
 ID: 25345679
 Name: Aidin
 Surname: Turdukulov
 Email: turdukulov@gmail.com
-Password: !@#$%^&
+Password: &*#$%^&
 Birthday: 2005_12_23
 
 User age: 19
 
 Email validation:  turdukulov@gmail.com is Valid email
-Password strength: !@#$%^& is strong.
+Password strength: &*#$%^& is strong.
 ```
 
 # UML
